@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_filters">
+        <item>@string/filter_hdr</item>
+        <item>@string/filter_none</item>
+        <item>@string/filter_greyscale</item>
+        <item>@string/filter_softglow</item>
+        <item>@string/filter_crossshader</item>
+        <item>@string/filter_lomo</item>
+        <item>@string/filter_oldpicture</item>
+        <item>@string/filter_emboss</item>
+        <item>@string/filter_sketch</item>
+    </string-array>
+    <string-array name="array_isos">
+        <item>@string/iso_auto</item>
+        <item>@string/iso_100</item>
+        <item>@string/iso_200</item>
+        <item>@string/iso_400</item>
+        <item>@string/iso_800</item>
+        <item>@string/iso_1600</item>
+    </string-array>
+
+</resources>

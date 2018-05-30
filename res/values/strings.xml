@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunny Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="capture">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="picture_size">Size:</string>
+    <string name="filter">Filter:</string>
+    <string name="filter_hdr">HDR</string>
+    <string name="filter_none">None</string>
+    <string name="filter_greyscale">Greyscale</string>
+    <string name="filter_softglow">SoftGlow</string>
+    <string name="filter_crossshader">CrossShader</string>
+    <string name="filter_lomo">Lomo</string>
+    <string name="filter_oldpicture">OldPicture</string>
+    <string name="filter_emboss">Emboss</string>
+    <string name="filter_sketch">Sketch</string>
+    <string name="iso">ISO:</string>
+    <string name="iso_auto">Auto</string>
+    <string name="iso_100">100</string>
+    <string name="iso_200">200</string>
+    <string name="iso_400">400</string>
+    <string name="iso_800">800</string>
+    <string name="iso_1600">1600</string>
+    <string name="ev">EV:</string>
+
+</resources>
